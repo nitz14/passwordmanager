@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$30000$nndTdgvTb5t5$3VWx2eUcQqpciQw1dKNfbloE28k9Cxtj/BmPwEuzics=",
+      "last_login": "2017-05-27T16:5:56.121Z",
+      "is_superuser": true,
+      "username": "qwe",
+      "first_name": "qwe",
+      "last_name": "",
+      "email": "qwe@test.test",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2017-05-27T16:5:56.121Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

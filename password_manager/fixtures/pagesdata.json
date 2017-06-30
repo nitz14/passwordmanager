@@ -1,0 +1,22 @@
+[
+  {
+    "model": "password_manager.servises",
+    "pk": 1,
+    "fields": {
+      "page_name": "facebook",
+      "page_url": "https://www.facebook.com",
+      "user": "qwe@test.test",
+      "password": "qweqwe123"
+    }
+  },
+  {
+    "model": "password_manager.servises",
+    "pk": 2,
+    "fields": {
+      "page_name": "google",
+      "page_url": "https://www.google.com",
+      "user": "qwe@test.test",
+      "password": "qweqwe123"
+    }
+  },
+]
